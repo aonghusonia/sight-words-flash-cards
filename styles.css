@@ -1,0 +1,11 @@
+
+body {
+  font-family: "Muli", "Futura", "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  user-select: none;
+}
