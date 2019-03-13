@@ -196,7 +196,7 @@ const words = [
 
 //const getRandomWord = () => words[Math.floor(Math.random()*words.length)];
 
-const getRandomWord = () => words[Math.floor((1-Math.abs(Math.random()-Math.random()))*words.length))]
+const getRandomWord = () => words[Math.floor((1-Math.abs(Math.random()-Math.random()))*words.length)]
 
 
 const getNewWord = word => {
