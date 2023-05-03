@@ -1,4 +1,32 @@
-const words = ['are', 'is', 'me'];
+const words = [
+  'I',
+  'a',
+  'and',
+  'are',
+  'do',
+  'for',
+  'go',
+  'have',
+  'he',
+  'is',
+  'me',
+  'my',
+  'no',
+  'said',
+  'see',
+  'she',
+  'that',
+  'the',
+  'there',
+  'they',
+  'this',
+  'to',
+  'want',
+  'we',
+  'what',
+  'with',
+  'you'
+];
 
 // const words = [
 //   "find",
